@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>goatsoft.net - First</title>
+      <link>https://goatsoft.net</link>
+      <description>A website dedicated to free and open-source software development, etc &amp; etc.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://goatsoft.net/tags/first/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The First Post</title>
+          <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+          <author>Ghoul</author>
+          <link>https://goatsoft.net/blog/the-first-post/</link>
+          <guid>https://goatsoft.net/blog/the-first-post/</guid>
+          <description xml:base="https://goatsoft.net/blog/the-first-post/">&lt;h2 id=&quot;the-what&quot;&gt;The what?&lt;&#x2F;h2&gt;
+&lt;p&gt;This is the first post on goatsoft.net ;3&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
